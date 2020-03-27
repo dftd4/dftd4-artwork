@@ -18,6 +18,10 @@ Additional focus on the different fields of the circle
 
 <img src="./full-circle/d4-focus-main.svg" alt="D4 focus main-group" width="200"> <img src="./full-circle/d4-focus-organometallics.svg" alt="D4 focus organometallics" width="200"> <img src="./full-circle/d4-focus-solids.svg" alt="D4 focus solids" width="200"> <img src="./full-circle/d4-focus-surfaces.svg" alt="D4 focus surfaces" width="200">
 
+There seems to be a happy coincidence with the eigth album of the band
+Five Finger Death Punch, both in the naming and general style of the graphic.
+Therefore, we use the opportunity to include a reference to their
+[album F8](https://5fdp.ffm.to/f8album) here :metal:.
 
 ## License
 
